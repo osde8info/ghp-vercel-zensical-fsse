@@ -1,1 +1,3 @@
-# gh-vercel-zensical
+# ghp-vercel-zensical
+
+## github pages vercel
