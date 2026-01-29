@@ -1,4 +1,4 @@
-# Home
+# FSSE8INFO
 
 Built with Zensical [zensical.org](https://zensical.org/docs/).
 
@@ -16,6 +16,6 @@ uv add zensical
 * [`zensical serve`][serve] - Start local web server
 * [`zensical build`][build] - Build your site
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+[new]: https://zensical.org/docs/usage/new/
+[serve]: https://zensical.org/docs/usage/preview/
+[build]: https://zensical.org/docs/usage/build/
